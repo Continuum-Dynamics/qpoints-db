@@ -537,14 +537,14 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-danmurphy.com.au",
+        "id": "ret-danmurphys.com.au",
         "name": "Dan Murphy's Digital eGift Card",
         "domains": [
-          "danmurphy.com.au",
-          "danmurphy.com"
+          "danmurphys.com.au",
+          "www.danmurphys.com.au"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.danmurphy.com.au"
+        "primaryUrl": "https://www.danmurphys.com.au"
       }
     ]
   },
