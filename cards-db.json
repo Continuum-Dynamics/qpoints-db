@@ -1,5 +1,58 @@
 [
   {
+    "id": "card-AU100126622",
+    "title": "Xbox Digital Gift Card",
+    "brand": "Xbox",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/xbox-digital-gift-card-au100126622/AU100126622",
+    "pointsPerDollar": 3,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-xbox.com",
+        "name": "Xbox",
+        "domains": [
+          "xbox.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.xbox.com"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100518527",
+    "title": "The Good Guys Digital Gift Card",
+    "brand": "The Good Guys",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-good-guys-digital-gift-card-au100518527/AU100518527",
+    "pointsPerDollar": 3,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-thegoodguys.com.au",
+        "name": "The Good Guys",
+        "domains": [
+          "thegoodguys.com.au",
+          "thegoodguys.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.thegoodguys.com.au"
+      }
+    ]
+  },
+  {
     "id": "card-AU100599370",
     "title": "Optus Flex Plus Prepaid eSIM 180GB $200",
     "brand": "Optus Flex Plus Prepaid eSIM 180GB $200",
@@ -32,10 +85,10 @@
     "supportedRetailers": []
   },
   {
-    "id": "card-AU100599369",
-    "title": "Optus Flex Plus Prepaid eSIM 150GB $64",
-    "brand": "Optus Flex Plus Prepaid eSIM 150GB $64",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/optus-flex-plus-prepaid-esim-150gb-dollar64-au100599369/AU100599369",
+    "id": "card-AU100599367",
+    "title": "Optus Flex Plus Prepaid eSIM 110GB $44",
+    "brand": "Optus Flex Plus Prepaid eSIM 110GB $44",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/optus-flex-plus-prepaid-esim-110gb-dollar44-au100599367/AU100599367",
     "pointsPerDollar": 10,
     "isMultiStore": false,
     "category": "Unknown",
@@ -48,10 +101,10 @@
     "supportedRetailers": []
   },
   {
-    "id": "card-AU100599367",
-    "title": "Optus Flex Plus Prepaid eSIM 110GB $44",
-    "brand": "Optus Flex Plus Prepaid eSIM 110GB $44",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/optus-flex-plus-prepaid-esim-110gb-dollar44-au100599367/AU100599367",
+    "id": "card-AU100599369",
+    "title": "Optus Flex Plus Prepaid eSIM 150GB $64",
+    "brand": "Optus Flex Plus Prepaid eSIM 150GB $64",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/optus-flex-plus-prepaid-esim-150gb-dollar64-au100599369/AU100599369",
     "pointsPerDollar": 10,
     "isMultiStore": false,
     "category": "Unknown",
@@ -78,62 +131,6 @@
     "description": "",
     "tips": "",
     "supportedRetailers": []
-  },
-  {
-    "id": "card-AU100126625",
-    "title": "Airbnb Digital Gift Card",
-    "brand": "Airbnb",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/airbnb-digital-gift-card-au100126625/AU100126625",
-    "pointsPerDollar": 3,
-    "isMultiStore": false,
-    "category": "Travel & Stays",
-    "denominationRange": "$50 – $2,000",
-    "redemptionType": "Online Only",
-    "cardColor": "#ff385c",
-    "textColor": "#ffffff",
-    "description": "Book stays, holiday houses, apartments, and unique experiences across Australia and globally.",
-    "tips": "Go to airbnb.com.au/gift and claim code to your account before booking. It applies to any stay seamlessly.",
-    "supportedRetailers": [
-      {
-        "id": "ret-airbnb",
-        "name": "Airbnb Australia",
-        "domains": [
-          "airbnb.com",
-          "www.airbnb.com",
-          "airbnb.com.au",
-          "www.airbnb.com.au"
-        ],
-        "category": "Travel & Stays",
-        "primaryUrl": "https://www.airbnb.com.au"
-      }
-    ]
-  },
-  {
-    "id": "card-AU100126231",
-    "title": "Priceline Digital Gift Card",
-    "brand": "Priceline",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/priceline-digital-gift-card-au100126231/AU100126231",
-    "pointsPerDollar": 3,
-    "isMultiStore": false,
-    "category": "Health & Beauty",
-    "denominationRange": "$20 – $500",
-    "redemptionType": "Online & In-store",
-    "cardColor": "#db2777",
-    "textColor": "#ffffff",
-    "description": "Skincare, pharmacy prescriptions, vitamins, hair essentials, and cosmetics.",
-    "tips": "Redeem at online checkout at priceline.com.au or present barcode in-store.",
-    "supportedRetailers": [
-      {
-        "id": "ret-priceline",
-        "name": "Priceline Pharmacy",
-        "domains": [
-          "priceline.com.au",
-          "www.priceline.com.au"
-        ],
-        "category": "Health & Beauty",
-        "primaryUrl": "https://www.priceline.com.au"
-      }
-    ]
   },
   {
     "id": "card-AU100126626",
@@ -297,28 +294,31 @@
     ]
   },
   {
-    "id": "card-AU100126622",
-    "title": "Xbox Digital Gift Card",
-    "brand": "Xbox",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/xbox-digital-gift-card-au100126622/AU100126622",
+    "id": "card-AU100126625",
+    "title": "Airbnb Digital Gift Card",
+    "brand": "Airbnb",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/airbnb-digital-gift-card-au100126625/AU100126625",
     "pointsPerDollar": 3,
     "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
+    "category": "Travel & Stays",
+    "denominationRange": "$50 – $2,000",
+    "redemptionType": "Online Only",
+    "cardColor": "#ff385c",
+    "textColor": "#ffffff",
+    "description": "Book stays, holiday houses, apartments, and unique experiences across Australia and globally.",
+    "tips": "Go to airbnb.com.au/gift and claim code to your account before booking. It applies to any stay seamlessly.",
     "supportedRetailers": [
       {
-        "id": "ret-xbox.com",
-        "name": "Xbox",
+        "id": "ret-airbnb",
+        "name": "Airbnb Australia",
         "domains": [
-          "xbox.com"
+          "airbnb.com",
+          "www.airbnb.com",
+          "airbnb.com.au",
+          "www.airbnb.com.au"
         ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.xbox.com"
+        "category": "Travel & Stays",
+        "primaryUrl": "https://www.airbnb.com.au"
       }
     ]
   },
@@ -524,6 +524,33 @@
     ]
   },
   {
+    "id": "card-AU100075767",
+    "title": "The Card Network Active Gift Card - Digital",
+    "brand": "The Card Network Active - Digital",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-active-gift-card-digital-au100075767/AU100075767",
+    "pointsPerDollar": 2,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-thecardnetworkactive.com.au",
+        "name": "The Card Network Active - Digital",
+        "domains": [
+          "thecardnetworkactive.com.au",
+          "thecardnetworkactive.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.thecardnetworkactive.com.au"
+      }
+    ]
+  },
+  {
     "id": "card-AU100435636",
     "title": "Dan Murphy's Digital eGift Card",
     "brand": "Dan Murphy's Digital eGift Card",
@@ -551,10 +578,10 @@
     ]
   },
   {
-    "id": "card-AU100518527",
-    "title": "The Good Guys Digital Gift Card",
-    "brand": "The Good Guys",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-good-guys-digital-gift-card-au100518527/AU100518527",
+    "id": "card-AU100127107",
+    "title": "City Beach Physical Gift Card",
+    "brand": "City Beach",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/city-beach-physical-gift-card-au100127107/AU100127107",
     "pointsPerDollar": 3,
     "isMultiStore": false,
     "category": "Unknown",
@@ -566,23 +593,23 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-thegoodguys.com.au",
-        "name": "The Good Guys",
+        "id": "ret-citybeach.com.au",
+        "name": "City Beach",
         "domains": [
-          "thegoodguys.com.au",
-          "thegoodguys.com"
+          "citybeach.com.au",
+          "citybeach.com"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.thegoodguys.com.au"
+        "primaryUrl": "https://www.citybeach.com.au"
       }
     ]
   },
   {
-    "id": "card-AU100075767",
-    "title": "The Card Network Active Gift Card - Digital",
-    "brand": "The Card Network Active - Digital",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-active-gift-card-digital-au100075767/AU100075767",
-    "pointsPerDollar": 2,
+    "id": "card-AU100128974",
+    "title": "BCF Digital Gift Card",
+    "brand": "BCF",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/bcf-digital-gift-card-au100128974/AU100128974",
+    "pointsPerDollar": 3,
     "isMultiStore": false,
     "category": "Unknown",
     "denominationRange": "",
@@ -593,14 +620,13 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-thecardnetworkactive.com.au",
-        "name": "The Card Network Active - Digital",
+        "id": "ret-bcf.com.au",
+        "name": "BCF",
         "domains": [
-          "thecardnetworkactive.com.au",
-          "thecardnetworkactive.com"
+          "bcf.com.au"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.thecardnetworkactive.com.au"
+        "primaryUrl": "https://www.bcf.com.au"
       }
     ]
   },
@@ -633,11 +659,11 @@
     ]
   },
   {
-    "id": "card-AU100127107",
-    "title": "City Beach Physical Gift Card",
-    "brand": "City Beach",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/city-beach-physical-gift-card-au100127107/AU100127107",
-    "pointsPerDollar": 3,
+    "id": "card-AU100435635",
+    "title": "Big W Digital eGift Card",
+    "brand": "Big W Digital eGift Card",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/big-w-digital-egift-card-au100435635/AU100435635",
+    "pointsPerDollar": 1,
     "isMultiStore": false,
     "category": "Unknown",
     "denominationRange": "",
@@ -648,14 +674,14 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-citybeach.com.au",
-        "name": "City Beach",
+        "id": "ret-bigw.com.au",
+        "name": "Big W Digital eGift Card",
         "domains": [
-          "citybeach.com.au",
-          "citybeach.com"
+          "bigw.com.au",
+          "bigw.com"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.citybeach.com.au"
+        "primaryUrl": "https://www.bigw.com.au"
       }
     ]
   },
@@ -687,32 +713,6 @@
     ]
   },
   {
-    "id": "card-AU100128974",
-    "title": "BCF Digital Gift Card",
-    "brand": "BCF",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/bcf-digital-gift-card-au100128974/AU100128974",
-    "pointsPerDollar": 3,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-bcf.com.au",
-        "name": "BCF",
-        "domains": [
-          "bcf.com.au"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.bcf.com.au"
-      }
-    ]
-  },
-  {
     "id": "card-AU100075778",
     "title": "The Card Network Her Gift Card - Digital",
     "brand": "The Card Network Her - Digital",
@@ -736,33 +736,6 @@
         ],
         "category": "Unknown",
         "primaryUrl": "https://www.thecardnetworkher.com.au"
-      }
-    ]
-  },
-  {
-    "id": "card-AU100435635",
-    "title": "Big W Digital eGift Card",
-    "brand": "Big W Digital eGift Card",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/big-w-digital-egift-card-au100435635/AU100435635",
-    "pointsPerDollar": 1,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-bigw.com.au",
-        "name": "Big W Digital eGift Card",
-        "domains": [
-          "bigw.com.au",
-          "bigw.com"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.bigw.com.au"
       }
     ]
   },
@@ -793,29 +766,29 @@
     ]
   },
   {
-    "id": "card-AU100075799",
-    "title": "The Card Network The Restaurant Gift Card - Physical",
-    "brand": "The Card Network The Restaurant - Physical",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-the-restaurant-gift-card-physical-au100075799/AU100075799",
-    "pointsPerDollar": 2,
+    "id": "card-AU100126231",
+    "title": "Priceline Digital Gift Card",
+    "brand": "Priceline",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/priceline-digital-gift-card-au100126231/AU100126231",
+    "pointsPerDollar": 3,
     "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
+    "category": "Health & Beauty",
+    "denominationRange": "$20 – $500",
+    "redemptionType": "Online & In-store",
+    "cardColor": "#db2777",
+    "textColor": "#ffffff",
+    "description": "Skincare, pharmacy prescriptions, vitamins, hair essentials, and cosmetics.",
+    "tips": "Redeem at online checkout at priceline.com.au or present barcode in-store.",
     "supportedRetailers": [
       {
-        "id": "ret-thecardnetworktherestaurantphysical.com.au",
-        "name": "The Card Network The Restaurant - Physical",
+        "id": "ret-priceline",
+        "name": "Priceline Pharmacy",
         "domains": [
-          "thecardnetworktherestaurantphysical.com.au",
-          "thecardnetworktherestaurantphysical.com"
+          "priceline.com.au",
+          "www.priceline.com.au"
         ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.thecardnetworktherestaurantphysical.com.au"
+        "category": "Health & Beauty",
+        "primaryUrl": "https://www.priceline.com.au"
       }
     ]
   },
@@ -847,10 +820,10 @@
     ]
   },
   {
-    "id": "card-AU100075770",
-    "title": "The Card Network Teen Gift Card - Digital",
-    "brand": "The Card Network Teen - Digital",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-teen-gift-card-digital-au100075770/AU100075770",
+    "id": "card-AU100075799",
+    "title": "The Card Network The Restaurant Gift Card - Physical",
+    "brand": "The Card Network The Restaurant - Physical",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-the-restaurant-gift-card-physical-au100075799/AU100075799",
     "pointsPerDollar": 2,
     "isMultiStore": false,
     "category": "Unknown",
@@ -862,22 +835,22 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-thecardnetworkteen.com.au",
-        "name": "The Card Network Teen - Digital",
+        "id": "ret-thecardnetworktherestaurantphysical.com.au",
+        "name": "The Card Network The Restaurant - Physical",
         "domains": [
-          "thecardnetworkteen.com.au",
-          "thecardnetworkteen.com"
+          "thecardnetworktherestaurantphysical.com.au",
+          "thecardnetworktherestaurantphysical.com"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.thecardnetworkteen.com.au"
+        "primaryUrl": "https://www.thecardnetworktherestaurantphysical.com.au"
       }
     ]
   },
   {
-    "id": "card-AU100390403",
-    "title": "Kogan Digital Gift Card",
-    "brand": "Kogan",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/kogan-digital-gift-card-au100390403/AU100390403",
+    "id": "card-AU100345617",
+    "title": "Sony Playstation Digital Gift Card",
+    "brand": "Sony Playstation",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/sony-playstation-digital-gift-card-au100345617/AU100345617",
     "pointsPerDollar": 3,
     "isMultiStore": false,
     "category": "Unknown",
@@ -889,14 +862,13 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-kogan.com.au",
-        "name": "Kogan",
+        "id": "ret-playstation.com",
+        "name": "Sony Playstation",
         "domains": [
-          "kogan.com.au",
-          "kogan.com"
+          "playstation.com"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.kogan.com.au"
+        "primaryUrl": "https://www.playstation.com"
       }
     ]
   },
@@ -928,32 +900,6 @@
     ]
   },
   {
-    "id": "card-AU100345617",
-    "title": "Sony Playstation Digital Gift Card",
-    "brand": "Sony Playstation",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/sony-playstation-digital-gift-card-au100345617/AU100345617",
-    "pointsPerDollar": 3,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-playstation.com",
-        "name": "Sony Playstation",
-        "domains": [
-          "playstation.com"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.playstation.com"
-      }
-    ]
-  },
-  {
     "id": "card-AU100075780",
     "title": "The Card Network Restaurant Gift Card - Digital",
     "brand": "The Card Network Restaurant - Digital",
@@ -981,10 +927,37 @@
     ]
   },
   {
-    "id": "card-AU100075782",
-    "title": "The Card Network Pamper Gift Card - Digital",
-    "brand": "The Card Network Pamper - Digital",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-pamper-gift-card-digital-au100075782/AU100075782",
+    "id": "card-AU100390403",
+    "title": "Kogan Digital Gift Card",
+    "brand": "Kogan",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/kogan-digital-gift-card-au100390403/AU100390403",
+    "pointsPerDollar": 3,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-kogan.com.au",
+        "name": "Kogan",
+        "domains": [
+          "kogan.com.au",
+          "kogan.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.kogan.com.au"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100075770",
+    "title": "The Card Network Teen Gift Card - Digital",
+    "brand": "The Card Network Teen - Digital",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-teen-gift-card-digital-au100075770/AU100075770",
     "pointsPerDollar": 2,
     "isMultiStore": false,
     "category": "Unknown",
@@ -996,14 +969,14 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-thecardnetworkpamper.com.au",
-        "name": "The Card Network Pamper - Digital",
+        "id": "ret-thecardnetworkteen.com.au",
+        "name": "The Card Network Teen - Digital",
         "domains": [
-          "thecardnetworkpamper.com.au",
-          "thecardnetworkpamper.com"
+          "thecardnetworkteen.com.au",
+          "thecardnetworkteen.com"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.thecardnetworkpamper.com.au"
+        "primaryUrl": "https://www.thecardnetworkteen.com.au"
       }
     ]
   },
@@ -1035,6 +1008,33 @@
     ]
   },
   {
+    "id": "card-AU100075772",
+    "title": "The Card Network Shop Gift Card - Digital",
+    "brand": "The Card Network Shop - Digital",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-shop-gift-card-digital-au100075772/AU100075772",
+    "pointsPerDollar": 2,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-thecardnetworkshop.com.au",
+        "name": "The Card Network Shop - Digital",
+        "domains": [
+          "thecardnetworkshop.com.au",
+          "thecardnetworkshop.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.thecardnetworkshop.com.au"
+      }
+    ]
+  },
+  {
     "id": "card-AU100075773",
     "title": "The Card Network Baby Gift Card - Digital",
     "brand": "The Card Network Baby - Digital",
@@ -1062,10 +1062,10 @@
     ]
   },
   {
-    "id": "card-AU100075772",
-    "title": "The Card Network Shop Gift Card - Digital",
-    "brand": "The Card Network Shop - Digital",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-shop-gift-card-digital-au100075772/AU100075772",
+    "id": "card-AU100075782",
+    "title": "The Card Network Pamper Gift Card - Digital",
+    "brand": "The Card Network Pamper - Digital",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-pamper-gift-card-digital-au100075782/AU100075782",
     "pointsPerDollar": 2,
     "isMultiStore": false,
     "category": "Unknown",
@@ -1077,14 +1077,14 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-thecardnetworkshop.com.au",
-        "name": "The Card Network Shop - Digital",
+        "id": "ret-thecardnetworkpamper.com.au",
+        "name": "The Card Network Pamper - Digital",
         "domains": [
-          "thecardnetworkshop.com.au",
-          "thecardnetworkshop.com"
+          "thecardnetworkpamper.com.au",
+          "thecardnetworkpamper.com"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.thecardnetworkshop.com.au"
+        "primaryUrl": "https://www.thecardnetworkpamper.com.au"
       }
     ]
   },
@@ -1116,10 +1116,10 @@
     ]
   },
   {
-    "id": "card-AU100526880",
-    "title": "Peter Alexander Digital Gift Card",
-    "brand": "Peter Alexander",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/peter-alexander-digital-gift-card-au100526880/AU100526880",
+    "id": "card-AU100126219",
+    "title": "EB Games Digital Gift Card",
+    "brand": "EB Games",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/eb-games-digital-gift-card-au100126219/AU100126219",
     "pointsPerDollar": 3,
     "isMultiStore": false,
     "category": "Unknown",
@@ -1131,14 +1131,41 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-peteralexander.com.au",
-        "name": "Peter Alexander",
+        "id": "ret-ebgames.com.au",
+        "name": "EB Games",
         "domains": [
-          "peteralexander.com.au",
-          "peteralexander.com"
+          "ebgames.com.au",
+          "ebgames.com"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.peteralexander.com.au"
+        "primaryUrl": "https://www.ebgames.com.au"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100382459",
+    "title": "lululemon Digital Gift Card",
+    "brand": "lululemon",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/lululemon-digital-gift-card-au100382459/AU100382459",
+    "pointsPerDollar": 3,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-lululemon.com.au",
+        "name": "lululemon",
+        "domains": [
+          "lululemon.com.au",
+          "lululemon.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.lululemon.com.au"
       }
     ]
   },
@@ -1170,33 +1197,6 @@
     ]
   },
   {
-    "id": "card-AU100128976",
-    "title": "Supercheap Auto Digital Gift Card",
-    "brand": "Supercheap Auto",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/supercheap-auto-digital-gift-card-au100128976/AU100128976",
-    "pointsPerDollar": 3,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-supercheapauto.com.au",
-        "name": "Supercheap Auto",
-        "domains": [
-          "supercheapauto.com.au",
-          "supercheapauto.com"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.supercheapauto.com.au"
-      }
-    ]
-  },
-  {
     "id": "card-AU100126214",
     "title": "Sephora Digital Gift Card",
     "brand": "Sephora",
@@ -1224,37 +1224,64 @@
     ]
   },
   {
-    "id": "card-AU100127125",
-    "title": "David Jones Physical Gift Card",
-    "brand": "David Jones",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/david-jones-physical-gift-card-au100127125/AU100127125",
+    "id": "card-AU100526880",
+    "title": "Peter Alexander Digital Gift Card",
+    "brand": "Peter Alexander",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/peter-alexander-digital-gift-card-au100526880/AU100526880",
     "pointsPerDollar": 3,
     "isMultiStore": false,
-    "category": "Department Stores",
-    "denominationRange": "$50 – $2,000",
-    "redemptionType": "Online & In-store",
-    "cardColor": "#000000",
-    "textColor": "#ffffff",
-    "description": "Australia’s luxury department store with international designer fashion, beauty, fine dining, and homewares.",
-    "tips": "Enter card number and security PIN during online checkout at davidjones.com.",
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-david-jones",
-        "name": "David Jones",
+        "id": "ret-peteralexander.com.au",
+        "name": "Peter Alexander",
         "domains": [
-          "davidjones.com",
-          "www.davidjones.com"
+          "peteralexander.com.au",
+          "peteralexander.com"
         ],
-        "category": "Department Stores",
-        "primaryUrl": "https://www.davidjones.com"
+        "category": "Unknown",
+        "primaryUrl": "https://www.peteralexander.com.au"
       }
     ]
   },
   {
-    "id": "card-AU100224963",
-    "title": "The Card Network The Good Food Gift Card - Digital",
-    "brand": "The Card Network The Good Food - Digital",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-the-good-food-gift-card-digital-au100224963/AU100224963",
+    "id": "card-AU100128976",
+    "title": "Supercheap Auto Digital Gift Card",
+    "brand": "Supercheap Auto",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/supercheap-auto-digital-gift-card-au100128976/AU100128976",
+    "pointsPerDollar": 3,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-supercheapauto.com.au",
+        "name": "Supercheap Auto",
+        "domains": [
+          "supercheapauto.com.au",
+          "supercheapauto.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.supercheapauto.com.au"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100084483",
+    "title": "The Card Network Her Gift Card - Physical",
+    "brand": "The Card Network Her - Physical",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-her-gift-card-physical-au100084483/AU100084483",
     "pointsPerDollar": 2,
     "isMultiStore": false,
     "category": "Unknown",
@@ -1266,14 +1293,14 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-thecardnetworkthegoodfood.com.au",
-        "name": "The Card Network The Good Food - Digital",
+        "id": "ret-thecardnetworkherphysical.com.au",
+        "name": "The Card Network Her - Physical",
         "domains": [
-          "thecardnetworkthegoodfood.com.au",
-          "thecardnetworkthegoodfood.com"
+          "thecardnetworkherphysical.com.au",
+          "thecardnetworkherphysical.com"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.thecardnetworkthegoodfood.com.au"
+        "primaryUrl": "https://www.thecardnetworkherphysical.com.au"
       }
     ]
   },
@@ -1332,10 +1359,37 @@
     ]
   },
   {
-    "id": "card-AU100084483",
-    "title": "The Card Network Her Gift Card - Physical",
-    "brand": "The Card Network Her - Physical",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-her-gift-card-physical-au100084483/AU100084483",
+    "id": "card-AU100127125",
+    "title": "David Jones Physical Gift Card",
+    "brand": "David Jones",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/david-jones-physical-gift-card-au100127125/AU100127125",
+    "pointsPerDollar": 3,
+    "isMultiStore": false,
+    "category": "Department Stores",
+    "denominationRange": "$50 – $2,000",
+    "redemptionType": "Online & In-store",
+    "cardColor": "#000000",
+    "textColor": "#ffffff",
+    "description": "Australia’s luxury department store with international designer fashion, beauty, fine dining, and homewares.",
+    "tips": "Enter card number and security PIN during online checkout at davidjones.com.",
+    "supportedRetailers": [
+      {
+        "id": "ret-david-jones",
+        "name": "David Jones",
+        "domains": [
+          "davidjones.com",
+          "www.davidjones.com"
+        ],
+        "category": "Department Stores",
+        "primaryUrl": "https://www.davidjones.com"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100224963",
+    "title": "The Card Network The Good Food Gift Card - Digital",
+    "brand": "The Card Network The Good Food - Digital",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-the-good-food-gift-card-digital-au100224963/AU100224963",
     "pointsPerDollar": 2,
     "isMultiStore": false,
     "category": "Unknown",
@@ -1347,14 +1401,95 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-thecardnetworkherphysical.com.au",
-        "name": "The Card Network Her - Physical",
+        "id": "ret-thecardnetworkthegoodfood.com.au",
+        "name": "The Card Network The Good Food - Digital",
         "domains": [
-          "thecardnetworkherphysical.com.au",
-          "thecardnetworkherphysical.com"
+          "thecardnetworkthegoodfood.com.au",
+          "thecardnetworkthegoodfood.com"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.thecardnetworkherphysical.com.au"
+        "primaryUrl": "https://www.thecardnetworkthegoodfood.com.au"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100127074",
+    "title": "The Card Network Him Gift Card - Physical",
+    "brand": "The Card Network Him - Physical",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-him-gift-card-physical-au100127074/AU100127074",
+    "pointsPerDollar": 2,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-thecardnetworkhimphysical.com.au",
+        "name": "The Card Network Him - Physical",
+        "domains": [
+          "thecardnetworkhimphysical.com.au",
+          "thecardnetworkhimphysical.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.thecardnetworkhimphysical.com.au"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100075794",
+    "title": "The Card Network Kids Gift Card - Physical",
+    "brand": "The Card Network Kids - Physical",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-kids-gift-card-physical-au100075794/AU100075794",
+    "pointsPerDollar": 2,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-thecardnetworkkidsphysical.com.au",
+        "name": "The Card Network Kids - Physical",
+        "domains": [
+          "thecardnetworkkidsphysical.com.au",
+          "thecardnetworkkidsphysical.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.thecardnetworkkidsphysical.com.au"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100125624",
+    "title": "Adore Beauty Digital Gift Card",
+    "brand": "Adore Beauty",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/adore-beauty-digital-gift-card-au100125624/AU100125624",
+    "pointsPerDollar": 3,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-adorebeauty.com.au",
+        "name": "Adore Beauty",
+        "domains": [
+          "adorebeauty.com.au",
+          "adorebeauty.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.adorebeauty.com.au"
       }
     ]
   },
@@ -1413,60 +1548,6 @@
     ]
   },
   {
-    "id": "card-AU100127074",
-    "title": "The Card Network Him Gift Card - Physical",
-    "brand": "The Card Network Him - Physical",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-him-gift-card-physical-au100127074/AU100127074",
-    "pointsPerDollar": 2,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-thecardnetworkhimphysical.com.au",
-        "name": "The Card Network Him - Physical",
-        "domains": [
-          "thecardnetworkhimphysical.com.au",
-          "thecardnetworkhimphysical.com"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.thecardnetworkhimphysical.com.au"
-      }
-    ]
-  },
-  {
-    "id": "card-AU100125624",
-    "title": "Adore Beauty Digital Gift Card",
-    "brand": "Adore Beauty",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/adore-beauty-digital-gift-card-au100125624/AU100125624",
-    "pointsPerDollar": 3,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-adorebeauty.com.au",
-        "name": "Adore Beauty",
-        "domains": [
-          "adorebeauty.com.au",
-          "adorebeauty.com"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.adorebeauty.com.au"
-      }
-    ]
-  },
-  {
     "id": "card-AU100126193",
     "title": "Freedom Furniture Digital Gift Card",
     "brand": "Freedom Furniture",
@@ -1490,168 +1571,6 @@
         ],
         "category": "Unknown",
         "primaryUrl": "https://www.freedomfurniture.com.au"
-      }
-    ]
-  },
-  {
-    "id": "card-AU100075794",
-    "title": "The Card Network Kids Gift Card - Physical",
-    "brand": "The Card Network Kids - Physical",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-kids-gift-card-physical-au100075794/AU100075794",
-    "pointsPerDollar": 2,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-thecardnetworkkidsphysical.com.au",
-        "name": "The Card Network Kids - Physical",
-        "domains": [
-          "thecardnetworkkidsphysical.com.au",
-          "thecardnetworkkidsphysical.com"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.thecardnetworkkidsphysical.com.au"
-      }
-    ]
-  },
-  {
-    "id": "card-AU100126618",
-    "title": "Kathmandu Digital Gift Card",
-    "brand": "Kathmandu",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/kathmandu-digital-gift-card-au100126618/AU100126618",
-    "pointsPerDollar": 3,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-kathmandu.com.au",
-        "name": "Kathmandu",
-        "domains": [
-          "kathmandu.com.au",
-          "kathmandu.com"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.kathmandu.com.au"
-      }
-    ]
-  },
-  {
-    "id": "card-AU100246657",
-    "title": "Kayo Sports | BINGE Digital Gift Card",
-    "brand": "Kayo Sports | BINGE",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/kayo-sports-binge-digital-gift-card-au100246657/AU100246657",
-    "pointsPerDollar": 3,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-kayosportsbinge.com.au",
-        "name": "Kayo Sports | BINGE",
-        "domains": [
-          "kayosportsbinge.com.au",
-          "kayosportsbinge.com"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.kayosportsbinge.com.au"
-      }
-    ]
-  },
-  {
-    "id": "card-AU100075797",
-    "title": "The Card Network Home Gift Card - Physical",
-    "brand": "The Card Network Home - Physical",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-home-gift-card-physical-au100075797/AU100075797",
-    "pointsPerDollar": 2,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-thecardnetworkhomephysical.com.au",
-        "name": "The Card Network Home - Physical",
-        "domains": [
-          "thecardnetworkhomephysical.com.au",
-          "thecardnetworkhomephysical.com"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.thecardnetworkhomephysical.com.au"
-      }
-    ]
-  },
-  {
-    "id": "card-AU100075803",
-    "title": "The Card Network Shop Gift Card - Physical",
-    "brand": "The Card Network Shop - Physical",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-shop-gift-card-physical-au100075803/AU100075803",
-    "pointsPerDollar": 2,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-thecardnetworkshopphysical.com.au",
-        "name": "The Card Network Shop - Physical",
-        "domains": [
-          "thecardnetworkshopphysical.com.au",
-          "thecardnetworkshopphysical.com"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.thecardnetworkshopphysical.com.au"
-      }
-    ]
-  },
-  {
-    "id": "card-AU100545849",
-    "title": "Temple & Webster Digital Gift Card",
-    "brand": "Temple & Webster",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/temple-webster-digital-gift-card-au100545849/AU100545849",
-    "pointsPerDollar": 3,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-templewebster.com.au",
-        "name": "Temple & Webster",
-        "domains": [
-          "templewebster.com.au",
-          "templewebster.com"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.templewebster.com.au"
       }
     ]
   },
@@ -1683,11 +1602,11 @@
     ]
   },
   {
-    "id": "card-AU100126209",
-    "title": "Cotton On Digital Gift Card",
-    "brand": "Cotton On",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/cotton-on-digital-gift-card-au100126209/AU100126209",
-    "pointsPerDollar": 3,
+    "id": "card-AU100075797",
+    "title": "The Card Network Home Gift Card - Physical",
+    "brand": "The Card Network Home - Physical",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-home-gift-card-physical-au100075797/AU100075797",
+    "pointsPerDollar": 2,
     "isMultiStore": false,
     "category": "Unknown",
     "denominationRange": "",
@@ -1698,22 +1617,22 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-cottonon.com.au",
-        "name": "Cotton On",
+        "id": "ret-thecardnetworkhomephysical.com.au",
+        "name": "The Card Network Home - Physical",
         "domains": [
-          "cottonon.com.au",
-          "cottonon.com"
+          "thecardnetworkhomephysical.com.au",
+          "thecardnetworkhomephysical.com"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.cottonon.com.au"
+        "primaryUrl": "https://www.thecardnetworkhomephysical.com.au"
       }
     ]
   },
   {
-    "id": "card-AU100126201",
-    "title": "Amart Furniture Digital Gift Card",
-    "brand": "Amart Furniture",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/amart-furniture-digital-gift-card-au100126201/AU100126201",
+    "id": "card-AU100246657",
+    "title": "Kayo Sports | BINGE Digital Gift Card",
+    "brand": "Kayo Sports | BINGE",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/kayo-sports-binge-digital-gift-card-au100246657/AU100246657",
     "pointsPerDollar": 3,
     "isMultiStore": false,
     "category": "Unknown",
@@ -1725,14 +1644,149 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-amartfurniture.com.au",
-        "name": "Amart Furniture",
+        "id": "ret-kayosportsbinge.com.au",
+        "name": "Kayo Sports | BINGE",
         "domains": [
-          "amartfurniture.com.au",
-          "amartfurniture.com"
+          "kayosportsbinge.com.au",
+          "kayosportsbinge.com"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.amartfurniture.com.au"
+        "primaryUrl": "https://www.kayosportsbinge.com.au"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100075803",
+    "title": "The Card Network Shop Gift Card - Physical",
+    "brand": "The Card Network Shop - Physical",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-shop-gift-card-physical-au100075803/AU100075803",
+    "pointsPerDollar": 2,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-thecardnetworkshopphysical.com.au",
+        "name": "The Card Network Shop - Physical",
+        "domains": [
+          "thecardnetworkshopphysical.com.au",
+          "thecardnetworkshopphysical.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.thecardnetworkshopphysical.com.au"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100126618",
+    "title": "Kathmandu Digital Gift Card",
+    "brand": "Kathmandu",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/kathmandu-digital-gift-card-au100126618/AU100126618",
+    "pointsPerDollar": 3,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-kathmandu.com.au",
+        "name": "Kathmandu",
+        "domains": [
+          "kathmandu.com.au",
+          "kathmandu.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.kathmandu.com.au"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100545849",
+    "title": "Temple & Webster Digital Gift Card",
+    "brand": "Temple & Webster",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/temple-webster-digital-gift-card-au100545849/AU100545849",
+    "pointsPerDollar": 3,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-templewebster.com.au",
+        "name": "Temple & Webster",
+        "domains": [
+          "templewebster.com.au",
+          "templewebster.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.templewebster.com.au"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100475450",
+    "title": "Xbox Game Pass Ultimate Digital Gift Card",
+    "brand": "Xbox Game Pass Ultimate",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/xbox-game-pass-ultimate-digital-gift-card-au100475450/AU100475450",
+    "pointsPerDollar": 3,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-xboxgamepassultimate.com.au",
+        "name": "Xbox Game Pass Ultimate",
+        "domains": [
+          "xboxgamepassultimate.com.au",
+          "xboxgamepassultimate.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.xboxgamepassultimate.com.au"
+      }
+    ]
+  },
+  {
+    "id": "card-AU1544073",
+    "title": "The Card Network Mum Gift Card - Digital",
+    "brand": "The Card Network Mum - Digital",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-mum-gift-card-digital-au100482847/AU100482847/AU1544073",
+    "pointsPerDollar": 2,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-thecardnetworkmum.com.au",
+        "name": "The Card Network Mum - Digital",
+        "domains": [
+          "thecardnetworkmum.com.au",
+          "thecardnetworkmum.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.thecardnetworkmum.com.au"
       }
     ]
   }
