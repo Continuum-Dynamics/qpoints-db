@@ -348,6 +348,22 @@
     ]
   },
   {
+    "id": "card-AU100126208",
+    "title": "Hoyts Digital Gift Card",
+    "brand": "Hoyts Digital Gift Card",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/hoyts-digital-gift-card-au100126208/AU100126208",
+    "pointsPerDollar": 3,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": []
+  },
+  {
     "id": "card-AU100126628",
     "title": "Uber Eats Digital Gift Card",
     "brand": "Uber Eats",
@@ -383,22 +399,6 @@
         "primaryUrl": "https://www.ubereats.com"
       }
     ]
-  },
-  {
-    "id": "card-AU100126208",
-    "title": "Hoyts Digital Gift Card",
-    "brand": "Hoyts Digital Gift Card",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/hoyts-digital-gift-card-au100126208/AU100126208",
-    "pointsPerDollar": 3,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": []
   },
   {
     "id": "card-AU100338887",
@@ -482,11 +482,11 @@
     ]
   },
   {
-    "id": "card-AU100435636",
-    "title": "Dan Murphy's Digital eGift Card",
-    "brand": "Dan Murphy's Digital eGift Card",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/dan-murphys-digital-egift-card-au100435636/AU100435636",
-    "pointsPerDollar": 1,
+    "id": "card-AU100518527",
+    "title": "The Good Guys Digital Gift Card",
+    "brand": "The Good Guys",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-good-guys-digital-gift-card-au100518527/AU100518527",
+    "pointsPerDollar": 3,
     "isMultiStore": false,
     "category": "Unknown",
     "denominationRange": "",
@@ -497,14 +497,14 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-danmurphys.com.au",
-        "name": "Dan Murphy's Digital eGift Card",
+        "id": "ret-thegoodguys.com.au",
+        "name": "The Good Guys",
         "domains": [
-          "danmurphys.com.au",
-          "www.danmurphys.com.au"
+          "thegoodguys.com.au",
+          "thegoodguys.com"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.danmurphys.com.au"
+        "primaryUrl": "https://www.thegoodguys.com.au"
       }
     ]
   },
@@ -536,11 +536,11 @@
     ]
   },
   {
-    "id": "card-AU100518527",
-    "title": "The Good Guys Digital Gift Card",
-    "brand": "The Good Guys",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-good-guys-digital-gift-card-au100518527/AU100518527",
-    "pointsPerDollar": 3,
+    "id": "card-AU100435636",
+    "title": "Dan Murphy's Digital eGift Card",
+    "brand": "Dan Murphy's Digital eGift Card",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/dan-murphys-digital-egift-card-au100435636/AU100435636",
+    "pointsPerDollar": 1,
     "isMultiStore": false,
     "category": "Unknown",
     "denominationRange": "",
@@ -551,41 +551,14 @@
     "tips": "",
     "supportedRetailers": [
       {
-        "id": "ret-thegoodguys.com.au",
-        "name": "The Good Guys",
+        "id": "ret-danmurphys.com.au",
+        "name": "Dan Murphy's Digital eGift Card",
         "domains": [
-          "thegoodguys.com.au",
-          "thegoodguys.com"
+          "danmurphys.com.au",
+          "www.danmurphys.com.au"
         ],
         "category": "Unknown",
-        "primaryUrl": "https://www.thegoodguys.com.au"
-      }
-    ]
-  },
-  {
-    "id": "card-AU100075778",
-    "title": "The Card Network Her Gift Card - Digital",
-    "brand": "The Card Network Her - Digital",
-    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-her-gift-card-digital-au100075778/AU100075778",
-    "pointsPerDollar": 2,
-    "isMultiStore": false,
-    "category": "Unknown",
-    "denominationRange": "",
-    "redemptionType": "",
-    "cardColor": "#ffffff",
-    "textColor": "#000000",
-    "description": "",
-    "tips": "",
-    "supportedRetailers": [
-      {
-        "id": "ret-thecardnetworkher.com.au",
-        "name": "The Card Network Her - Digital",
-        "domains": [
-          "thecardnetworkher.com.au",
-          "thecardnetworkher.com"
-        ],
-        "category": "Unknown",
-        "primaryUrl": "https://www.thecardnetworkher.com.au"
+        "primaryUrl": "https://www.danmurphys.com.au"
       }
     ]
   },
@@ -613,6 +586,33 @@
         ],
         "category": "Unknown",
         "primaryUrl": "https://www.citybeach.com.au"
+      }
+    ]
+  },
+  {
+    "id": "card-AU100075778",
+    "title": "The Card Network Her Gift Card - Digital",
+    "brand": "The Card Network Her - Digital",
+    "marketplaceUrl": "https://marketplace.qantas.com/au/p/the-card-network-her-gift-card-digital-au100075778/AU100075778",
+    "pointsPerDollar": 2,
+    "isMultiStore": false,
+    "category": "Unknown",
+    "denominationRange": "",
+    "redemptionType": "",
+    "cardColor": "#ffffff",
+    "textColor": "#000000",
+    "description": "",
+    "tips": "",
+    "supportedRetailers": [
+      {
+        "id": "ret-thecardnetworkher.com.au",
+        "name": "The Card Network Her - Digital",
+        "domains": [
+          "thecardnetworkher.com.au",
+          "thecardnetworkher.com"
+        ],
+        "category": "Unknown",
+        "primaryUrl": "https://www.thecardnetworkher.com.au"
       }
     ]
   },
